@@ -32,7 +32,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
             Container(
               height: 180,
               child: Image.asset(
-                  'D:/Mobile_Project/flutter_chat_app/images/Welcome_icon.png'),
+                  'images/Welcome_icon.png'),
             ),
             SizedBox(height: 50),
             TextField(

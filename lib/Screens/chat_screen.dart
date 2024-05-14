@@ -60,7 +60,7 @@ class _ChatScreenState extends State<ChatScreen> {
         title: Row(
           children: [
             Image.asset(
-              'D:/Mobile_Project/flutter_chat_app/images/Welcome_icon.png',
+              'images/Welcome_icon.png',
               height: 70,
             ),
             SizedBox(width: 20),

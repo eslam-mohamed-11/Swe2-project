@@ -15,7 +15,7 @@ class UserDetailsPage extends StatelessWidget {
         title: Row(
           children: [
             Image.asset(
-              'D:/Mobile_Project/flutter_chat_app_with_dashboard/flutter_chat_app/images/Welcome_icon.png',
+              'images/Welcome_icon.png',
               height: 70,
             ),
             SizedBox(width: 20),
@@ -35,7 +35,7 @@ class UserDetailsPage extends StatelessWidget {
               Container(
                 height: 180,
                 child: Image.asset(
-                  'D:/Mobile_Project/flutter_chat_app/images/Welcome_icon.png',
+                  'images/Welcome_icon.png',
                   fit: BoxFit.cover,
                 ),
               ),
