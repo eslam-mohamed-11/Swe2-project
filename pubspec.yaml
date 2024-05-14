@@ -62,7 +62,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - D:/Mobile_Project/flutter_chat_app_with_dashboard/flutter_chat_app/images/Welcome_icon.png
+    - images/Welcome_icon.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
